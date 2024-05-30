@@ -1,0 +1,9 @@
+
+opencv-python
+temp
+streamlit
+mediapipe
+numpy
+Pillow
+
+SpeechRecognition-3.10.4
