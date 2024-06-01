@@ -37,7 +37,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.sidebar.title('Sign Language Detection - Sameer Edlabadkar')
+st.sidebar.title('Sign Language Detection - Kundan Kumar')
 st.sidebar.subheader('-Parameter')
 
 @st.cache()
@@ -91,7 +91,7 @@ if app_mode =='About App':
     st.video('https://youtu.be/NYAFEmte4og')
     st.markdown('''
               # About Me \n 
-                Hey this is **Sameer Edlabadkar**. Working on the technologies such as **Tensorflow, MediaPipe, OpenCV, ResNet50**. \n
+                Hey this is **Kundan Kumar**. Working on the technologies such as **Tensorflow, MediaPipe, OpenCV, ResNet50**. \n
 
                 Also check me out on Social Media
                 - [YouTube](https://www.youtube.com/@edlabadkarsameer/videos)
